@@ -15,7 +15,7 @@ This project is aimed to answer the following questions;
 * Exploring the Advert dataset to find out key questions on the team and user with the most ad targeted?
 * Explore the in game purchase dataset, to find out team and user with the most in game purchase
 * Categorise the spenders om the platform
-* Understamd the age demography of the players
+* Understand the age demography of the players
 * The country where the game is popular
 * Analysis in-game purchase and optimization
   
