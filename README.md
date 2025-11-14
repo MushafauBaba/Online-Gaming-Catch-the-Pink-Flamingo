@@ -9,7 +9,6 @@ The project is framed into 5 major steps:
 * ETL pipelines
 * Data Visualisation with Matplotlib, plotly and seaborn
 * Analysis
-* Feature Engineering
 * Results and Insights discussion.
 
 This project is aimed to answer the following questions;
@@ -18,7 +17,7 @@ This project is aimed to answer the following questions;
 * Categorise the spenders om the platform
 * Understamd the age demography of the players
 * The country where the game is popular
-* Find out if ad targeted results into in game purchase
+* Analysis in-game purchase and optimization
   
 ## The algorithm to using this framework is as follows;
 * Initial descriptive analysis
