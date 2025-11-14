@@ -5,7 +5,7 @@
 This project explores data and is used to complete the Data Analytics with Artificial Intelligence Individual formative assignment 1. The goal of the project is to design and implement a Big Data solution for the online game "Catch the Pink Flamingo."
 The project's data comprises 9 files containing information on in-app purchases, ad clicks, and game-specific information, but for the sake of the assignment, I would be working on the ad-clicks, buy-clicks and users csv files only in the initial stage.
 
-The project is framed into 5 major steps:
+The project is framed into 4 major steps:
 * ETL pipelines
 * Data Visualisation with Matplotlib, plotly and seaborn
 * Analysis
